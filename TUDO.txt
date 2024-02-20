@@ -1,11 +1,641 @@
+Pokemon 
 Locais :
 
 
-Locais :
+Pokemon :
+-Bulbasaur = 10
+4-2 Everspring Valley Forest
+-Ivysaur
+-Venusaur = 10
+4-2 Everspring Valley Forest
+-Charmander
+-Charmeleon
+-Charizard
+-Squirtle
+-Wartortle
+-Blastoise = 09 ( 4-2 )
+-Metapod = 02 ( 2-1 )
+-Kakuka = 09 ( 2-2 )
+-Pidgey = 06 ( 1-4 )
+-Sandslash = 08 ( 3-1 )
+-Nidoran M = 08 ( 2-4 ) 1x
+-Nidoking = 06 ( 2-4 ) 2x
+-Ninetales = 01
+-Jigglypuff = 02
+-Golbat = 07
+-Oddish = 02
 
+Ivysaur	 	2	3	3	4-2 Everspring Valley Forest
+#003	
+
+Venusaur	 	3	4	3	4-2 Everspring Valley Forest
+#004	
+
+Charmander		2	2	3	4-2 Everspring Valley Cave
+#005	
+
+Charmeleon		3	2	3	4-2 Everspring Valley Cave
+#006	
+
+Charizard	 	4	3	4	4-2 Everspring Valley Cave
+#007	
+
+Squirtle		1	2	3	4-2 Everspring Valley Lake
+#008	
+
+Wartortle		2	3	3	4-2 Everspring Valley Lake
+#009	
+
+Blastoise		3	4	3	4-2 Everspring Valley Lake
+#010	
+
+Caterpie		1	1	3	2-1 Sun-Dappled Bank Treetops
+#011	
+
+Metapod		1	1	3	2-1 Sun-Dappled Bank Treetops
+#012	
+
+Butterfree	 	3	3	3	2-1 Sun-Dappled Bank Treetops
+#013	
+
+Weedle	 	1	1	3	2-2 Misty Edgewater Forest
+#014	
+
+Kakuna	 	1	1	3	2-2 Misty Edgewater Forest
+#015	
+
+Beedrill	 	3	2	3	2-2 Misty Edgewater Forest
+#016	
+
+Pidgey	 	1	1	3	1-4 Challengers' Ground Meadow
+#017	
+
+Pidgeotto	 	2	2	3	1-4 Challengers' Ground Meadow
+#018	
+
+Pidgeot	 	3	3	3	1-4 Challengers' Ground Meadow (After Game Completion)
+#019	
+
+Rattata		2	1	3	1-1 Trailhead Field Meadow
+#020	
+
+Raticate		3	3	3	1-1 Trailhead Field Meadow (After Game Completion)
+4-2 Everspring Valley Meadow
+#021	
+
+Spearow	 	2	1	3	1-2 Seabreeze Trail Meadow
+4-2 Everspring Valley Meadow
+#022	
+
+Fearow	 	3	2	4	4-2 Everspring Valley Meadow
+#023	
+
+Ekans		2	2	3	3-1 Desolated Ruins Cave
+#024	
+
+Arbok		3	3	3	3-1 Desolated Ruins Cave
+#025	
+
+Pikachu		2	1	3	1-1 Trailhead Field Forest
+3-3 Firebreathing Mountain Autumnwood
+World Axle B1F Forest
+#026	
+
+Raichu		3	3	4	3-3 Firebreathing Mountain Autumnwood
+World Axle B1F Forest
+#027	
+
+Sandshrew		2	2	3	3-1 Desolated Ruins Desert
+#028	
+
+Sandslash		3	3	3	3-1 Desolated Ruins Desert
+#029	
+
+Nidoran♀		1	2	3	2-4 Shimmering Lake Cave
+#030	
+
+Nidorina		2	2	3	2-4 Shimmering Lake Cave
+#031	
+
+Nidoqueen	 	3	3	3	2-4 Shimmering Lake Cave
+#032	
+
+Nidoran♂		1	1	3	2-4 Shimmering Lake Cave
+#033	
+
+Nidorino		2	2	3	2-4 Shimmering Lake Cave
+#034	
+
+Nidoking	 	3	3	3	2-4 Shimmering Lake Cave
+#035	
+
+Clefairy		2	2	3	3-3 Firebreathing Mountain Autumnwood
+#036	
+
+Clefable		3	3	3	3-3 Firebreathing Mountain Autumnwood (After Game Completion)
+#037	
+
+Vulpix		1	2	3	1-3 Echo Valley Cave
+3-3 Firebreathing Mountain Magma
+#038	
+
+Ninetales		3	3	4	3-3 Firebreathing Mountain Magma
+#039	
+
+Jigglypuff		1	1	2	1-4 Challengers' Ground Forest
+#040	
+
+Wigglytuff		2	2	3	1-4 Challengers' Ground Forest (After Game Completion)
+#041	
+
+Zubat	 	1	1	3	4-2 Everspring Valley Cave
+#042	
+
+Golbat	 	3	3	3	4-2 Everspring Valley Cave
+#043	
+
+Oddish	 	2	2	3	1-3 Echo Valley Forest
+#044	
+
+Gloom	 	2	3	3	4-2 Everspring Valley Forest
+#045	
+
+Vileplume	 	3	3	3	4-2 Everspring Valley Forest
+#046	
+
+Paras	 	2	2	2	2-3 Soothing Shore Treetops
+#047	
+
+Parasect	 	3	3	3	2-3 Soothing Shore Treetops
+#048	
+
+Venonat	 	1	2	3	2-4 Shimmering Lake Treetops
+#049	
+
+Venomoth	 	3	3	3	2-4 Shimmering Lake Treetops (After Game Completion)
+#050	
+
+Diglett		2	1	3	2-2 Misty Edgewater Cave
+4-2 Everspring Valley Cave
+#051	
+
+Dugtrio		3	2	4	4-2 Everspring Valley Cave
+#052	
+
+Meowth		1	1	3	1-4 Challengers' Ground Meadow
+#053	
+
+Persian		2	2	4	4-2 Everspring Valley Meadow
+#054	
+
+Psyduck		2	2	3	2-1 Sun-Dappled Bank Lake
+4-2 Everspring Valley Lake
+#055	
+
+Golduck		3	3	3	4-2 Everspring Valley Lake
+#056	
+
+Mankey		3	1	3	4-3 Sunny Seashore Factory
+#057	
+
+Primeape		4	3	3	4-3 Sunny Seashore Factory
+#058	
+
+Growlithe		2	2	3	1-3 Echo Valley Cave
+4-3 Sunny Seashore Magma
+World Axle B1F Magma
+#059	
+
+Arcanine		4	3	3	4-3 Sunny Seashore Magma
+World Axle B1F Magma
+World Axle B2F Cave
+#060	
+
+Poliwag		1	1	3	4-2 Everspring Valley Lake
+#061	
+
+Poliwhirl		2	2	3	4-2 Everspring Valley Lake
+#062	
+
+Poliwrath	 	3	4	3	4-2 Everspring Valley Lake
+#063	
+
+Abra		4	1	3	1-4 Challengers' Ground Tower
+#064	
+
+Kadabra		4	2	4	1-4 Challengers' Ground Tower (After Game Completion)
+#065	
+
+Alakazam		5	3	4	1-4 Challengers' Ground Tower (After Game Completion)
+#066	
+
+Machop		2	1	3	4-3 Sunny Seashore Canyon
+#067	
+
+Machoke		3	3	3	4-3 Sunny Seashore Canyon
+#068	
+
+Machamp		4	3	3	4-3 Sunny Seashore Canyon
+#069	
+
+Bellsprout	 	2	1	3	2-1 Sun-Dappled Bank Treetops
+#070	
+
+Weepinbell	 	3	2	3	2-1 Sun-Dappled Bank Treetops
+2-3 Soothing Shore Treetops
+#071	
+
+Victreebel	 	3	2	3	2-3 Soothing Shore Treetops
+#072	
+
+Tentacool	 	1	3	3	1-3 Echo Valley Beach
+4-3 Sunny Seashore Beach
+#073	
+
+Tentacruel	 	3	4	4	4-3 Sunny Seashore Beach
+#074	
+
+Geodude	 	2	3	2	3-1 Desolated Ruins Canyon
+#075	
+
+Graveler	 	3	3	3	3-1 Desolated Ruins Canyon
+3-3 Firebreathing Mountain Magma
+4-3 Sunny Seashore Canyon
+#076	
+
+Golem	 	3	4	3	4-3 Sunny Seashore Canyon
+#077	
+
+Ponyta		3	2	3	4-3 Sunny Seashore Magma
+World Axle B1F Magma
+#078	
+
+Rapidash		3	3	4	4-3 Sunny Seashore Magma
+World Axle B1F Magma
+#079	
+
+Slowpoke	 	2	2	2	2-4 Shimmering Lake Lake
+#080	
+
+Slowbro	 	3	4	3	2-4 Shimmering Lake Lake
+#081	
+
+Magnemite	 	3	2	3	3-3 Firebreathing Mountain Factory
+#082	
+
+Magneton	 	4	3	3	3-3 Firebreathing Mountain Factory
+#083	
+
+Farfetch'd	 	2	2	3	3-1 Desolated Ruins Beach
+#084	
+
+Doduo	 	3	1	3	3-1 Desolated Ruins Desert
+#085	
+
+Dodrio	 	4	3	4	3-1 Desolated Ruins Desert
+#086	
+
+Seel		1	2	3	4-1 Frozen Tundra Glacier
+#087	
+
+Dewgong	 	2	3	3	4-1 Frozen Tundra Glacier
+#088	
+
+Grimer		2	2	2	4-2 Everspring Valley Cave
+#089	
+
+Muk		3	3	3	4-2 Everspring Valley Cave (After Game Completion)
+#090	
+
+Shellder		2	2	3	1-4 Challengers' Ground Beach
+#091	
+
+Cloyster	 	3	5	3	1-4 Challengers' Ground Beach (After Game Completion)
+#092	
+
+Gastly	 	3	1	3	2-2 Misty Edgewater Hauntyard
+#093	
+
+Haunter	 	4	2	3	4-2 Everspring Valley Hauntyard
+World Axle B1F Hauntyard
+#094	
+
+Gengar	 	5	3	4	4-2 Everspring Valley Hauntyard
+World Axle B1F Hauntyard
+#095	
+
+Onix	 	1	4	3	3-1 Desolated Ruins Canyon
+4-3 Sunny Seashore Canyon
+#096	
+
+Drowzee		1	3	3	1-4 Challengers' Ground Tower
+2-3 Soothing Shore Tower
+#097	
+
+Hypno		2	4	3	2-3 Soothing Shore Tower
+#098	
+
+Krabby		3	2	3	2-4 Shimmering Lake Lake
+#099	
+
+Kingler		5	3	3	2-4 Shimmering Lake Lake (After Game Completion)
+#100	
+
+Voltorb		2	2	4	4-3 Sunny Seashore Factory
+#101	
+
+Electrode		3	3	5	4-3 Sunny Seashore Factory
+#102	
+
+Exeggcute	 	2	2	3	4-2 Everspring Valley Forest
+#103	
+
+Exeggutor	 	4	3	3	4-2 Everspring Valley Forest
+#104	
+
+Cubone		1	3	3	2-2 Misty Edgewater Cave
+#105	
+
+Marowak		2	4	3	2-2 Misty Edgewater Cave
+#106	
+
+Hitmonlee		4	3	3	3-2 Volcanic Slope Magma (After Game Completion)
+#107	
+
+Hitmonchan		3	4	3	3-2 Volcanic Slope Magma (After Game Completion)
+#108	
+
+Lickitung		1	3	3	4-2 Everspring Valley Meadow
+World Axle B1F Meadow
+#109	
+
+Koffing		2	3	3	4-2 Everspring Valley Cave
+#110	
+
+Weezing		3	4	3	4-2 Everspring Valley Cave (After Game Completion)
+#111	
+
+Rhyhorn	 	2	2	2	4-3 Sunny Seashore Desert
+#112	
+
+Rhydon	 	4	3	3	4-3 Sunny Seashore Desert
+#113	
+
+Chansey		1	2	3	1-3 Echo Valley Forest (After Game Completion)
+#114	
+
+Tangela		3	3	3	2-3 Soothing Shore Treetops (After Game Completion)
+#115	
+
+Kangaskhan		3	3	3	3-1 Desolated Ruins Canyon
+#116	
+
+Horsea		2	2	3	1-2 Seabreeze Trail Beach
+1-4 Challengers' Ground Beach
+#117	
+
+Seadra		3	3	3	1-4 Challengers' Ground Beach
+4-3 Sunny Seashore Beach
+#118	
+
+Goldeen		2	2	3	2-4 Shimmering Lake Lake
+#119	
+
+Seaking		3	3	3	2-4 Shimmering Lake Lake
+#120	
+
+Staryu		2	2	3	1-3 Echo Valley Beach
+World Axle B1F Beach
+#121	
+
+Starmie	 	4	3	4	World Axle B1F Beach
+#122	
+
+Mr. Mime		3	4	3	4-3 Sunny Seashore Factory
+#123	
+
+Scyther	 	4	3	4	World Axle B1F Forest
+#124	
+
+Jynx	 	4	3	3	4-1 Frozen Tundra Tower
+#125	
+
+Electabuzz		3	3	4	3-3 Firebreathing Mountain Factory
+World Axle B2F Factory
+#126	
+
+Magmar		3	3	3	3-3 Firebreathing Mountain Magma
+4-3 Sunny Seashore Magma
+World Axle B1F Magma
+#127	
+
+Pinsir		4	3	3	World Axle B2F Treetops (After Game Completion)
+#128	
+
+Tauros		4	3	4	4-2 Everspring Valley Meadow (After Game Completion)
+#129	
+
+Magikarp		1	1	3	World Axle B2F Lake
+#130	
+
+Gyarados	 	4	3	3	World Axle B2F Lake
+#131	
+
+Lapras	 	3	3	3	World Axle B1F Beach (After Game Completion)
+#132	
+
+Ditto		1	2	3	World Axle B2F Cave
+#133	
+
+Eevee		1	2	3	3-1 Desolated Ruins Cave
+#134	
+
+Vaporeon		3	3	3	4-3 Sunny Seashore Beach
+#135	
+
+Jolteon		4	3	5	3-3 Firebreathing Mountain Factory
+#136	
+
+Flareon		4	3	3	3-2 Volcanic Slope Magma
+#137	
+
+Porygon		2	3	3	4-3 Sunny Seashore Factory
+#138	
+
+Omanyte	 	3	3	3	World Axle B1F Beach
+#139	
+
+Omastar	 	4	4	3	World Axle B1F Beach
+#140	
+
+Kabuto	 	2	3	3	2-2 Misty Edgewater Cave
+#141	
+
+Kabutops	 	4	3	3	2-2 Misty Edgewater Cave (After Game Completion)
+#142	
+
+Aerodactyl	 	4	3	5	4-3 Sunny Seashore Canyon (After Game Completion)
+#143	
+
+Snorlax		3	3	3	3-2 Volcanic Slope Autumnwood (After Game Completion)
+#144	
+
+Articuno	 	3	5	3	World Axle B2F Glacier (After Game Completion)
+#145	
+
+Zapdos	 	5	3	4	World Axle B2F Factory (After Game Completion)
+#146	
+
+Moltres	 	5	3	3	World Axle B1F Magma (After Game Completion)
+#147	
+
+Dratini		2	2	3	World Axle B2F Lake
+#148	
+
+Dragonair		3	3	3	World Axle B2F Lake
+#149	
+
+Dragonite	 	5	4	3	World Axle B2F Lake
+#150	
+
+Mewtwo		5	4	5	All Factorys After Completion of Battle Royale EX-6
+#151	
+
+Mew		3	4	4	4-3 Sunny Seashore Factory (After meeting 80 people)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+--
+-
+-
+-
+-
+-
+-
+
+Cidades :
+
+Toy Town = Cidade incial
+Easterly = 2° Cidade
+Westerly = 3° Cidade
+Northerly = 4° Cidade
+Axle = 5° Cidade
+
+Masmorras :
+
+---1-1
+9/12 = Falta 3
+8/10 = Falta 2
+S
+---1-2
+11/12 = Falta 1
+09/10 = Falta 1
+A > S 
 ---1-3
-
+10/13 = Falta 3
+10/12 = Falta 2
+09/09
+S S S 
 ----1-4
+11/14 = Falta 3
+12/15 = Falta 3
+12/15 = Falta 3
+08/11 = Falta 3
+S
+
+---2-1
+10/12 = Falta 2
+11/14 = Falta 3
+S 
+---2-2
+12/15 = Falta 3
+11/13 = Falta 2
+06/07 = Falta 1
+S SS 
+---2-3
+08/11 = Falta 3
+12/14
+12/14
+SS e S
+---2-4
+14/16
+12/14
+10/13
+S e SS
+
+---3-1
+11/14
+13/16
+13/16
+12/14
+SS e ?
+---3-2
+13/16
+13/16
+13/15
+A Verificar
+---3-3
+09/14 = Falta 6 !!! 
+08/16 = Falta 8 !!!
+11/16 = Falta 5 !!!
+11/15 = Falta 4 !!!
+S e SS 
+---3-4
+
+---4-1
+07/12 = Falta 5
+10/16 = Falta 6
+S S S 
+---4-4
+Clear S 
+---4-2
+10/16 = Falta 6
+11/15 = Falta 4
+08/15 = Falta 7
+10/14 = Falta 4
+08/15 = Falta 7 >>> 10/15 OK
+Verificar Verificar
+---4-3
+09/16 = Falta 7 >>> 11/16 OK
+10/14 = Falta 4
+12/15 = Falta 3
+07/14 = Falta 7
+11/16 = Falta 5
+Verificar S 
+
+---5-1
+10/15 = Falta 5
+09/14 = Falta 5
+11/16 = Falta 5
+08/12 = Falta 4
+11/15 = Falta 4
+SS
+---5-2
+09/16 = Falta 7
+09/16 = Falta 7
+09/15 = Falta 6
+10/13 = Falta 3
+10/16 = Falta 6
+09/16 = Falta 7
+A 
+---
 -Beach
 Falta : Seadra e Mantyke
 *458 Mantyke só na 1-4
@@ -14,3 +644,66 @@ Cloyster = Pós encerramento
 Lanturn = Pós encerramento
 Mantine = Pós encerramento
 Sharpedo = Pós encerramento
+
+-Golpes ( Location + Move + Price  )
+Toy Town	Giga Impact	100000P
+Toy Town	Random Move	Varies
+1-1 Trailhead Field - Battle Royale	Cut	Varies depending on Pokémon Strength
+1-2 Seabreeze Trail - Meadow	Low Sweep	Varies depending on Pokémon Strength
+1-2 Seabreeze Trail - Battle Royale	Rock Smash	Varies depending on Pokémon Strength
+1-3 Echo Valley - Forest	Growl	Varies depending on Pokémon Strength
+1-3 Echo Valley - Battle Royale Grass	Vine Whip	Varies depending on Pokémon Strength
+1-3 Echo Valley - Battle Royale Fire	Ember	Varies depending on Pokémon Strength
+1-3 Echo Valley - Battle Royale Water	Water Gun	Varies depending on Pokémon Strength
+1-4 Challengers' Ground - Meadow	Tail Whip	Varies depending on Pokémon Strength
+1-4 Challengers' Ground - Tower	Echoed Voice	Varies depending on Pokémon Strength
+1-4 Challengers' Ground - Battle Royale	Work Up	Varies depending on Pokémon Strength
+Easterly Town	Solarbeam	300000P
+Easterly Town	Random Move	Varies depending on Pokémon Strength
+2-1 Sun-Dappled Bank - Treetops	Ingrain	Varies depending on Pokémon Strength
+2-2 Misty Edgewater - Forest	PoisonPowder	Varies depending on Pokémon Strength
+2-2 Misty Edgewater - Hauntyard	Will-o-Wisp	Varies depending on Pokémon Strength
+2-2 Misty Edgewater - Battle Royale	Astonish	Varies depending on Pokémon Strength
+2-3 Soothing Shore - Treetops	U-Turn	Varies depending on Pokémon Strength
+2-3 Soothing Shore - Battle Royale	Struggle Bug	Varies depending on Pokémon Strength
+2-4 Shimmering Lake - Treetops	Growth	Varies depending on Pokémon Strength
+2-4 Shimmering Lake - Cave	Harden	Varies depending on Pokémon Strength
+2-4 Shimmering Lake - Battle Royale	Round	Varies depending on Pokémon Strength
+Westerly Town	Random Move	Varies depending on Pokémon Strength
+Westerly Town	Random Move	Varies depending on Pokémon Strength
+Westerly Town	Fire Blast	30000P
+Westerly Town	Move Swap	15000P
+3-1 Rugged Flats - Canyon	Smack Down	Varies depending on Pokémon Strength
+3-1 Rugged Flats - Cave	Fury Swipes	Varies depending on Pokémon Strength
+3-1 Rugged Flats - Battle Royale	Facade	Varies depending on Pokémon Strength
+3-2 Volcanic Slope - Magma	Incinerate	Varies depending on Pokémon Strength
+3-2 Volcanic Slope - Battle Royale	Canyon Slide	Varies depending on Pokémon Strength
+3-3 Firebreathing Mountain - Factory	Volt Switch	Varies depending on Pokémon Strength
+3-3 Firebreathing Mountain - Tower	Sonicboom	Varies depending on Pokémon Strength
+3-3 Firebreathing Mountain - Battle Royale	Bulk Up	Varies depending on Pokémon Strength
+Northerly Town	Random Move	Varies depending on Pokémon Strength
+Northerly Town	Surf	300000P
+Northerly Town	Move Swap	15000P
+4-2 Everspring Valley - Forest	Absorb	Varies depending on Pokémon Strength
+4-2 Everspring Valley - Meadow	Fling	Varies depending on Pokémon Strength
+4-2 Everspring Valley - Screw Shrine	Poison Jab	Varies depending on Pokémon Strength
+4-2 Everspring Valley - Screw Shrine	Pluck	Varies depending on Pokémon Strength
+4-3 Sunny Seashore - Canyon	Acrobatics	Varies depending on Pokémon Strength
+4-3 Sunny Seashore - Beach	Whirlpool	Varies depending on Pokémon Strength
+4-3 Sunny Seashore - Magma	Fire Spin	Varies depending on Pokémon Strength
+4-3 Sunny Seashore - Screw Shrine	Bulldoze	Varies depending on Pokémon Strength
+4-3 Sunny Seashore - Screw Shrine	Brick Break	Varies depending on Pokémon Strength
+Axle Town	Random Move	Varies depending on Pokémon Strength
+Axle Town	Random Move	Varies depending on Pokémon Strength
+Axle Town	Move Swap	15000P
+Axle Town	Surf	300000P
+Axle Town	Any Move in Learnset	Varies (Exchange toys instead of coins)
+World Axle B2F - Battle Royale	Return	Varies depending on Pokémon Strength
+
+
+Segurança Cibernética :
+Segurança ofensiva é o processo de invadir sistemas de computador, explorar bugs de software e encontrar brechas em aplicativos para obter acesso não autorizado a eles.
+Segurança defensiva, que é o processo de proteção da rede e dos sistemas informáticos de uma organização, analisando e protegendo quaisquer ameaças digitais potenciais; saiba mais na sala de perícia digital.
+
+Aplicativos de linha de comando 
+São programas de computador projetados para serem usados ​​a partir de uma interface de texto; pense nisso como se você estivesse usando um aplicativo sem interface de usuário.
